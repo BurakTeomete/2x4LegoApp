@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "445002352361",
+    "project_id": "x4legoapp",
+    "storage_bucket": "x4legoapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:445002352361:android:f1629a5319e22609791278",
+        "android_client_info": {
+          "package_name": "com.example.a2x4legoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCubT7icla510-Yq1D6ROAYMlKE2fdF1zw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
